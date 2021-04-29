@@ -4,8 +4,8 @@
 
 body{
    background-image: url("../images/images.jfif");
-    width: 1500px;
-    height: 700px;
+    width: 100%;
+    height: 100%;
     border: 2px solid darkgoldenrod;
     color: brown;
     overscroll-behavior-x: contain;
